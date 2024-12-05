@@ -1,0 +1,61 @@
+
+
+h1, h2 {
+  color: #343a40;
+}
+
+.table {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.table th {
+  background-color: #343a40;
+  color: yellow;
+  text-align: center;
+}
+
+.status-awaiting {
+  background-color: #fff3cd !important;
+}
+
+.status-in-transit {
+  background-color: #cce5ff !important;
+}
+
+.status-delivered {
+  background-color: #d4edda !important;
+}
+
+select {
+  font-weight: bold;
+}
+
+select option {
+  font-weight: normal;
+}
+
+.form-label {
+  font-weight: bold;
+  color: #495057;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  transition: all 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.form-select {
+  box-shadow: none;
+}
+
+.alert {
+  margin-top: 10px;
+};
+}
